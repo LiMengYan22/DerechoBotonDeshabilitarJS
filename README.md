@@ -1,5 +1,5 @@
 # DerechoBotonDeshabilitarJS
-READ MY MY FRIEND!! 
+READ MY FRIEND!! 
 Deshabilitar el Botón Derecho, Script Java
                                      
  __    _ _____             __ __         
